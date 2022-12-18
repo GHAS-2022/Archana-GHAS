@@ -17,4 +17,5 @@ jobs:
           jira_user: 'pramodhm@devtools.in'
           jira_token: '6WsmecwEFhC4y8XskEFU1106'
           jira_project: 'GAP'
+          github_token: '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'
           sync_direction: 'gh2jira'
